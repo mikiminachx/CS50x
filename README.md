@@ -1,8 +1,9 @@
 # CS50x
 CS50x - Introduction to Computer Science
-Learning Progress of taking CS50x provided by HarvardX
+<br>Learning Progress of taking CS50x provided by HarvardX</br>
 
-Current Progress:
+### Current Progress:
+
 <br>Week 1 - C Programming (Done!)</br>
 <br>Week 2 - Arrays</br>
 <br>Week 3 - Algorithms</br>
