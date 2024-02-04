@@ -5,7 +5,7 @@ CS50x - Introduction to Computer Science
 ### Current Progress:
 
 <br>Week 1 - C Programming (Done!)</br>
-<br>Week 2 - Arrays</br>
+<br>Week 2 - Arrays (Done!)</br>
 <br>Week 3 - Algorithms</br>
 <br>Week 4 - Memory</br>
 <br>Week 5 - Data Structures</br>
