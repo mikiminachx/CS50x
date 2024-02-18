@@ -21,3 +21,4 @@ void swap(int *a, int *b)
 
 // Notes:
 // The addresses of a and b are provided to the function. Therefore, the swap function can know where to make changes to the actual a and b from the main function.
+// tmp is called "buffer"
