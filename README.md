@@ -7,7 +7,7 @@ CS50x - Introduction to Computer Science
 <br>Week 1 - C Programming (Done!)</br>
 <br>Week 2 - Arrays (Done!)</br>
 <br>Week 3 - Algorithms (Done!)</br>
-<br>Week 4 - Memory</br>
+<br>Week 4 - Memory (Done!)</br>
 <br>Week 5 - Data Structures</br>
 <br>Week 6 - Python</br>
 <br>Week 7 - SQL</br>
