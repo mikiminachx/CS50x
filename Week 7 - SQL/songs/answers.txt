@@ -1,0 +1,6 @@
+Q1. If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+    Based on the average energy of this song list, I will characterize this audio aura is Orange.
+
+Q2. Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+    If the audio aura is only based on danceability, energy, tempo or etc., it doesn't reflect the orginal meaning of the song. The content of lyrics should also be taken in consideration.
+
