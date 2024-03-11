@@ -10,7 +10,7 @@ CS50x - Introduction to Computer Science
 <br>Week 4 - Memory (Done!)</br>
 <br>Week 5 - Data Structures (Done!)</br>
 <br>Week 6 - Python (Done!)</br>
-<br>Week 7 - SQL</br>
+<br>Week 7 - SQL (Done!)</br>
 <br>Week 8 - HTML, CSS, JavaScript</br>
 <br>Week 9 - Flask</br>
 <br>Week 10 - Final Project</br>
